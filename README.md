@@ -48,6 +48,7 @@
 
 ## Web Apps
 
+- [Quranfi](https://github.com/Quranfi-Project/quranfi-web): A modern web application for reading and listening to Quranic verses with translations. Built using React, Vite, TypeScript, and Tailwind CSS, it provides a seamless and elegant experience for users. [Preview](https://www.quranfi.xyz/)
 - [Qafiyah](https://github.com/alwalxed/qafiyah): An open-source Arabic poetry DB and website with 944K+ verses by 932 poets from 10 eras. Built with Nextjs, Hono, and Supabase.
 - [Salat](https://github.com/kafiln/salati): Prayer times in Morocco by cities (According to The Ministry of Endowments and Islamic Affairs) [Preview](https://salat.vercel.app).
 - [Quran](https://github.com/quran/quran.com-frontend-v2): The official source code repository for [Quran.com](https://Quran.com)
