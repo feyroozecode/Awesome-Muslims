@@ -219,6 +219,7 @@
 - [Ayah Detection](https://github.com/quran/ayah-detection): python scripts to detect ayah markers from quran images .
 - [Django Quran](https://github.com/idris/django-quran): Quranic models and helpers for use in Django projects
 - [Quran Image Generator](https://github.com/quran/quran.com-images): a set of scripts that generate Quran page images based on the old madani fonts provided by the King Fahd Quran Complex in Saudi Arabia.
+- [IslamicCLI](https://github.com/IcyDrae/Islamic): a simple, cross-platform command-line application written in C# that provides daily Islamic utilities directly in the terminal.
 
 # Assets
 
@@ -260,4 +261,5 @@
 ## Contributors ✨
 
 Thanks goes to these wonderful [people](https://github.com/choubari/Awesome-Muslims/graphs/contributors), Jazakoum Allahou Khayran 🤲
+
 
