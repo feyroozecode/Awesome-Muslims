@@ -125,13 +125,14 @@
 - [Azkar](https://github.com/AbdelrahmanBayoumi/Azkar-App) - Desktop Application shows notification for Azkar that pops-up every specific time 💬, Calculating Muslim prayer times (for any location), and shows Morning and Nights Azkar with reminder ⏰.
 - [Salawat](https://github.com/DBChoco/Salawat): A prayer times and Adhan application for Windows, macOS and GNU/Linux written in Java.
 - [Prayer Times](https://github.com/HouariZegai/PrayerTimes): Desktop application 💻 for calculating Muslim prayer times 🕌 and setting an alarm (Adhan) ⏰ for the prayer times.
+- [JQuran](https://github.com/LoayGhreeb/JQuran): JQuran is a Java-based Quran application built using JavaFX with Chapter Viewing, Audio Playback .
 
 ### Javascript
 
 - [Muezzin](https://github.com/DBChoco/Muezzin): A prayer times and Adhan application for Windows, macOS and GNU/Linux.
 - [Altaqwaa](https://github.com/Alsarmad/Altaqwaa-Islamic-Desktop-Application): An electron-based Azkar/prayer times application for Windows & Linux.
 - [Hisn-al-Muslim](https://github.com/Alsarmad/hisnmuslim_app): An app built upon the "Hisn-al-Muslim" book for azkar from the sunnah of the Prophet Muhammad (ﷺ) for windows & Linux
-
+ 
 ### C/C++ <a name="c-cpp"></a>
 
 - [Next Prayer](https://github.com/AbdeltwabMF/next-prayer): Islamic prayers reminder for Linux status bar.
@@ -260,4 +261,5 @@
 ## Contributors ✨
 
 Thanks goes to these wonderful [people](https://github.com/choubari/Awesome-Muslims/graphs/contributors), Jazakoum Allahou Khayran 🤲
+
 
