@@ -41,6 +41,7 @@
   - [Sound](#sound)
   - [Files](#files)
   - [Graphic Design Resources](#graphic-design-resources)
+  - [Database](#database) 
 - [Credits](#credits)
   - [Contributors ✨](#contributors-)
 
@@ -250,8 +251,13 @@
 - [Icon Finder](https://www.iconfinder.com/search/?q=islam)
 - [Flaticon](https://www.flaticon.com/): Access 8.0M+ vector icons & stickers, Download Free Icons and Stickers for your projects.
 
+## Database
+
+- [Quran-Database](https://github.com/AbdullahGhanem/quran-database.git)
+
 # Credits
 
 ## Contributors ✨
 
 Thanks goes to these wonderful [people](https://github.com/choubari/Awesome-Muslims/graphs/contributors), Jazakoum Allahou Khayran 🤲
+
